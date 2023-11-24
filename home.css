@@ -1,0 +1,33 @@
+
+    body {
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+    
+    h1, p, input, button {
+      margin: 10px;
+    }
+  .form-container {
+  width: 300px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 150vh;
+    width: 100%;
+    
+     background: url('BSIS.jpg')no-repeat;
+   background-position: center;
+    background-size: cover;
+    opacity: 20;
+}
+.form-container{
+  background: url('BSCS.jpg')no-repeat;
+    position: relative;
+    width: 450px;
+    height: 250px;
+;
